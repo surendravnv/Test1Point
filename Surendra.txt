@@ -1,53 +1,10 @@
-Hi this is surendra 
-Hi this is surendra 
-
-v=DMARC1;p=none;pct=100;rua=mailto:dmatc@qa.psplhyd.in;ruf=mailto:dmatc@qa.psplhyd.in;
-<<<<<<< .mine
-shekar
-gh
+function Add()
+{
+	swaroop
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-
-
-
-ok
-
-v=DMARC1; p=none; rua=mailto:72coxyha@ag.dmarcian.com; ruf=mailto:dmarc@padz.net; adkim=r; aspf=r; pct=100; rf=afrf; sp=none;
-
-
-
-v=DMARC1; p=reject; sp=none; adkim=strict; aspf=strict; rua=mailto:postmaster@freeyournet.com; ri=604800
-
-
-
-
-v=DMARC1; p=reject; sp=reject; adkim=r; aspf=s; fo=1; pct=100; rf=afrf; ri=3600; ruf=mailto:dmatc@qa.psplhyd.in
-
-
-
-yahoo
-v=DMARC1; p=reject; sp=none; pct=100; rua=mailto:dmarc-yahoo-rua@yahoo-inc.com, mailto:dmarc_y_rua@yahoo.com;
-
-
-
->>>>>>> .theirs
+function Mul()
+{
+	
+}
