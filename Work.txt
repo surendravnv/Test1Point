@@ -2,3 +2,8 @@ function Add()
 {
 	swaroop
 }
+
+function delete()
+{
+	shekar
+}
