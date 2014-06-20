@@ -4,3 +4,8 @@ function Add()
 	1-- first line.
 	2-- Secound line.	
 }
+
+function delete()
+{
+	shekar
+}
