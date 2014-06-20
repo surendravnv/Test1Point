@@ -2,34 +2,9 @@ Hi this is surendra
 Hi this is surendra 
 
 v=DMARC1;p=none;pct=100;rua=mailto:dmatc@qa.psplhyd.in;ruf=mailto:dmatc@qa.psplhyd.in;
-<<<<<<< .mine
+
 shekar
 gh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-
-
-
 ok
 
 v=DMARC1; p=none; rua=mailto:72coxyha@ag.dmarcian.com; ruf=mailto:dmarc@padz.net; adkim=r; aspf=r; pct=100; rf=afrf; sp=none;
@@ -50,4 +25,4 @@ v=DMARC1; p=reject; sp=none; pct=100; rua=mailto:dmarc-yahoo-rua@yahoo-inc.com, 
 
 
 
->>>>>>> .theirs
+
